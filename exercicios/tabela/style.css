@@ -1,0 +1,22 @@
+header {
+   background-color: black;
+   color: aliceblue; 
+   padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+th {
+    background-color: darkgray;
+    color: black;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 7px;
+}
