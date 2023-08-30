@@ -54,43 +54,46 @@
     }
 </style>
 <body class="dark:bg-zinc-800">
-    <header class="m-6 p-6 rounded-xl shadow-lg animate-background-color">
-        <h1 class="text-white text-center font-bold text-3xl drop-shadow-md">Sistemas de Informação - Unidavi</h1>
+    <header class="mx-6 mt-6 p-6 rounded-xl shadow-lg animate-background-color">
+        <h1 class="text-white text-center font-bold text-3xl drop-shadow-md">
+            | S.I | UNIDAVI |
+        </h1>
     </header>
 
-    <section class="mt-10 m-8 sm:m-14 flex flex-col items-center justify-center text-center">
+    <section class="mt-12 mx-8 sm:mx-14 flex flex-col items-center justify-center text-center">
         <div class="animate-border-color rounded-t-lg w-full py-2 border-t-4 border-l-4 border-r-4">
             <h2 class="text-zinc-950 dark:text-white drop-shadow-md">Atividades e Trabalhos</h2>
         </div>
         <div class="w-full">
-            <table id="main-table" class="animate-border-color rounded-b-xl border-b-4 border-l-4 border-r-4 border-separate w-full shadow-xl mb-6">
-                <th class="bg-zinc-800 dark:bg-zinc-200 drop-shadow-lg dark:text-zinc-800 text-white p-1"><p class="drop-shadow-md">Programacao WEB I</p></th>
-                <th class="bg-zinc-800 dark:bg-zinc-200 drop-shadow-lg dark:text-zinc-800 text-white p-1"><p class="drop-shadow-md">Programacao WEB II</p></th>
+            <table id="main-table" class="animate-border-color rounded-b-xl border-b-4 border-l-4 border-r-4 border-separate border-spacing-0 w-full shadow-xl">
+                <th class="m-0 animate-border-color border-t-4 border-b-4 border-r bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-800 text-white p-2 font-medium"><p class="drop-shadow-sm">Programacao WEB I</p></th>
+                <th class="m-0 animate-border-color  border-t-4 border-b-4 border-l bg-zinc-800 dark:bg-zinc-100 dark:text-zinc-800 text-white p-2 font-medium"><p class="drop-shadow-sm">Programacao WEB II</p></th>
 
-                <tr onclick="openUrl('unidavi/programacao_web_I/exercicios/tabela/index.html')" class="bg-zinc-100 cursor-pointer hover:bg-zinc-400 hover:text-white duration-100 group">
-                    <td>
+                <tr onclick="openUrl('unidavi/programacao_web_I/exercicios/tabela/index.html')" class="dark:bg-zinc-800 dark:text-zinc-200 bg-zinc-100 cursor-pointer hover:bg-zinc-400 hover:text-white duration-100 group">
+                    <td class="p-1 border-b border-r border-zinc-600">
                         Tabela
                     </td>
                 </tr>
             </table>
-
         </div>
     </section>
 
-    <footer class="mt-6 flex items-center justify-center">
-        <div class="block dark:hidden">
-            <figure>
-                <a href="">
-                    <img class="w-6" src="assets/github-icons/github-mark-white.svg" alt="GitHub Icon">
-                </a>
-            </figure>
-        </div>
-        <div class="hidden dark:block">
-            <figure>
-                <a href="https://github.com/barrosgusta">
-                    <img class="w-6" src="assets/github-icons/github-mark.svg" alt="GitHub Icon">
-                </a>
-            </figure>
+    <footer class="w-full mt-3">
+        <div class="flex items-center justify-center p-2">
+            <div class="block dark:hidden">
+                <figure>
+                    <a href="https://github.com/barrosgusta">
+                        <img width="25" class="shadow-md" src="assets/github-icons/github-mark.svg" alt="GitHub Icon">
+                    </a>
+                </figure>
+            </div>
+            <div class="hidden dark:block">
+                <figure>
+                    <a href="https://github.com/barrosgusta">
+                        <img width="25" class="shadow-md" src="assets/github-icons/github-mark-white.svg" alt="GitHub Icon">
+                    </a>
+                </figure>
+            </div>
         </div>
     </footer>
 </body>
