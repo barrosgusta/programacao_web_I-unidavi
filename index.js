@@ -1,6 +1,6 @@
 const NUMBER_OF_EXERCISES_LIST_1 = 21;
 const NUMBER_OF_EXERCISES_LIST_2 = 1;
-const NUMBER_OF_EXERCISES_PHP = 7;
+const NUMBER_OF_EXERCISES_PHP = 9;
 
 function fillHTMLList(content) {
   for (let i = 1; i <= NUMBER_OF_EXERCISES_LIST_1; i++) {
