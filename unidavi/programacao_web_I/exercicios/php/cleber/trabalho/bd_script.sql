@@ -1,8 +1,8 @@
--- Database: trabalho_pw2
+-- Database: trabalhofinal
 
--- DROP DATABASE IF EXISTS trabalho_pw2;
+-- DROP DATABASE IF EXISTS trabalhofinal;
 
-CREATE DATABASE trabalho_pw2
+CREATE DATABASE trabalhofinal
     WITH
     OWNER = postgres
     ENCODING = 'UTF8'

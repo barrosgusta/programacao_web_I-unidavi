@@ -6,7 +6,7 @@ class PessoaDAO
 
     public function __construct()
     {
-       $dsn = 'pgsql:host=localhost;dbname=trabalho_pw2';
+       $dsn = 'pgsql:host=localhost;dbname=trabalhofinal';
 
        $this->conection = new PDO($dsn, 'postgres', '');
     }
