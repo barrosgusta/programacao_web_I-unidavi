@@ -8,7 +8,7 @@ class PessoaDAO
     {
        $dsn = 'pgsql:host=localhost;dbname=trabalhofinal';
 
-       $this->conection = new PDO($dsn, 'postgres', '');
+       $this->conection = new PDO($dsn, 'postgres', '123456');
     }
 
     public function insert(PessoaModel $model)
