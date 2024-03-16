@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "fakerphp/faker": "^1.23",
+        "phpunit/php-timer": "^7.0"
+    }
+}
