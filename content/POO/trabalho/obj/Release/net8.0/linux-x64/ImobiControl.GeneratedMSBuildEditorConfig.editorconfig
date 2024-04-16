@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ImobiControl
+build_property.RootNamespace = ImobiControl
+build_property.ProjectDir = /Users/barrosgusta/Documents/GitHub/ImobiControl/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/barrosgusta/Documents/GitHub/ImobiControl
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Cidade/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2lkYWRlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Cidade/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2lkYWRlL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Cidade/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2lkYWRlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Cidade/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2lkYWRlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Cidade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2lkYWRlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Conta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGEvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Conta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGEvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Conta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGEvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Conta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGEvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Conta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Estado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Estado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Estado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Estado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Estado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Foto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm90by9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Foto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm90by9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Foto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm90by9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Foto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm90by9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Foto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm90by9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Home/Teste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Imovel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1vdmVsL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Imovel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1vdmVsL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Imovel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1vdmVsL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Imovel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1vdmVsL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Imovel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1vdmVsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Pessoa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Pessoa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Pessoa/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Pessoa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Pessoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVzc29hL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Tipo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Tipo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Tipo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Tipo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Tipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/barrosgusta/Documents/GitHub/ImobiControl/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gol6k5vsrb
