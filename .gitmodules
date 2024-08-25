@@ -1,5 +1,5 @@
-[submodule "content/POO/trabalho/Library"]
-	path = content/POO/trabalho/Library
+[submodule "content/POO/trabalhos/Library"]
+	path = content/POO/trabalhos/Library
 	url = https://github.com/rdvalentim/Library.git
 [submodule "content/PW2/trabalhos/onde_fica"]
 	path = content/PW2/trabalhos/onde_fica
