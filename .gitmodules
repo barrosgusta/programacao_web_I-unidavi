@@ -1,0 +1,6 @@
+[submodule "content/POO/trabalho/Library"]
+	path = content/POO/trabalho/Library
+	url = https://github.com/rdvalentim/Library.git
+[submodule "content/PW2/trabalhos/onde_fica"]
+	path = content/PW2/trabalhos/onde_fica
+	url = https://github.com/barrosgusta/onde_fica.git
