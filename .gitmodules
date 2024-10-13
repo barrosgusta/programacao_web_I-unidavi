@@ -4,3 +4,9 @@
 [submodule "content/PW2/trabalhos/onde_fica"]
 	path = content/PW2/trabalhos/onde_fica
 	url = https://github.com/barrosgusta/onde_fica.git
+[submodule "content/LPP/trabalhos/websocket_iot/smarthome-app"]
+	path = content/LPP/trabalhos/websocket_iot/smarthome-app
+	url = https://github.com/barrosgusta/smarthome-app.git
+[submodule "content/LPP/trabalhos/websocket_iot/smarthome-server"]
+	path = content/LPP/trabalhos/websocket_iot/smarthome-server
+	url = https://github.com/barrosgusta/smarthome-server.git
