@@ -10,3 +10,6 @@
 [submodule "content/LPP/trabalhos/websocket_iot/smarthome-server"]
 	path = content/LPP/trabalhos/websocket_iot/smarthome-server
 	url = https://github.com/barrosgusta/smarthome-server.git
+[submodule "/Users/barrosgusta/Documents/GitHub/sistemas_de_informacao/content/LPP/trabalhos/currency-converter"]
+	path = /Users/barrosgusta/Documents/GitHub/sistemas_de_informacao/content/LPP/trabalhos/currency-converter
+	url = https://github.com/barrosgusta/currency-converter.git
